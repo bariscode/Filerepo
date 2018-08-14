@@ -1,14 +1,5 @@
-<?php
-/**
- * Theme:  	 Amaranthine
- * Created:  October 2011.
- * Author:   Sami Ch.
- * URL: 	 http://gazpo.com
- * 
- **/
- ?>
- 
-<?php get_header(); ?>
+
+ <?php get_header(); ?>
 
 	<div id="content">
 	<?php if (have_posts()) : ?>
